@@ -10,7 +10,8 @@
 {% assign enableATC = settings.show_atc %}
 {% assign enableQuickshop = settings.enable-quick-shop %}
 {% assign onboarding = onboarding | default: false %}
-{% assign selected_variant = product.selected_or_first_available_variant %}
+{% assign selected_variant = product.selected_variant %}
+{% comment %}{% assign selected_variant = product.selected_or_first_available_variant %} {% endcomment %}
 
 {% if enable_product_details_overlay %}
   {% capture cardType %} product-card-alt{% endcapture %}

@@ -74,6 +74,7 @@
             {% if item.properties %}
               <div class="item-properties">
                 {% for property in item.properties %}
+                {%- if property.first contains 'Gift' -%}{%- continue -%}{%- endif -%}
                   {% unless property.last == blank %}
                     <div class="item-property">
                       <span class="item-property-label">

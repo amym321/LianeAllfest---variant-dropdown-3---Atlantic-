@@ -7,7 +7,7 @@
   class="
     options
     {% unless show_quantity and product.variants.size > 0 %}has-no-variants{% endunless %}
-    {% unless product.available %}unavailable{% endunless %}
+	{% unless product.available %}unavailable{% endunless %} 
     {{ class }}
   "
 >
@@ -18,7 +18,7 @@
           product-form-has-spb
         {% endif %}
         {% if selected_variant.available == false %}
-          product-form-outofstock
+         product-form-outofstock -
         {% endif %}
       "
     >
@@ -72,9 +72,9 @@
           >
         {% endif %}
       </div>
-
+{% comment %}
       {% render 'wrapin' %}
-      
+   {% endcomment %}   
       
       <button
         class="
@@ -89,7 +89,7 @@
           {% endif %}
         "
         {% unless selected_variant.available %}
-          disabled
+        	 disabled
         {% endunless %}
         {% if onboarding or template.name == 'password' %}
           disabled
@@ -120,10 +120,10 @@
         </noscript>
       </button>
 
-      {% if show_spb %}
+ {% comment %}     {% if show_spb %}
         {{ form | payment_button }}
       {% endif %}
-
+{% endcomment %}
       {% if show_payment_terms_reference %}
         <div data-payment-terms-reference style="display: none;">
           {{ form | payment_terms }}
