@@ -1,0 +1,32 @@
+{
+    "sections": {
+      "16539404878864fbf8": {
+        "type": "apps",
+        "blocks": {
+          "1bc0d45d-cb78-432b-a2c3-fdfe56db4fdc": {
+            "type": "shopify:\/\/apps\/gdpr-compliance-center\/blocks\/dsr\/58c0baa2-6cc1-480c-9ea6-38d6d559556a",
+            "settings": {
+              "container_classes": "page-width page-width--narrow"
+            }
+          }
+        },
+        "block_order": [
+          "1bc0d45d-cb78-432b-a2c3-fdfe56db4fdc"
+        ],
+        "settings": {
+        }
+      },
+      "main": {
+        "type": "static-page",
+        "settings": {
+          "show-breadcrumbs": false,
+          "title": "",
+          "content": ""
+        }
+      }
+    },
+    "order": [
+      "16539404878864fbf8",
+      "main"
+    ]
+  }

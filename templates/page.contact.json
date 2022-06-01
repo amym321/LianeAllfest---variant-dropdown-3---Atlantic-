@@ -1,1 +1,53 @@
-{"sections":{"1653666587757fb735":{"type":"dynamic-richtext","blocks":{"1653666587561814b7-0":{"type":"plain_text","settings":{"title":"","caption":"<p>Kontaktiere uns jederzeit über unser Kontaktformular oder per E-Mail (contact@lianeallfest.com).<br\/>Wir sind immer gerne für dich da. <br\/><\/p><p>Antworten auf die am häufigsten gestellten Fragen<br\/>haben wir in unseren <a href=\"\/pages\/faq\" target=\"_blank\" title=\"FAQ\">FAQ<\/a> für dich zusammengefasst.<\/p>"}}},"block_order":["1653666587561814b7-0"],"settings":{"border":true,"feature-borders":false}},"main":{"type":"static-page-contact","settings":{"show-breadcrumbs":false}}},"order":["1653666587757fb735","main"]}
+{
+    "sections": {
+      "1653666587757fb735": {
+        "type": "dynamic-richtext",
+        "blocks": {
+          "1653666587561814b7-0": {
+            "type": "plain_text",
+            "settings": {
+              "title": "",
+              "caption": "<p>Kontaktiere uns jederzeit über unser Kontaktformular oder per E-Mail (contact@lianeallfest.com).<br\/>Wir sind immer gerne für dich da. <br\/><\/p><p>Antworten auf die am häufigsten gestellten Fragen<br\/>haben wir in unseren <a href=\"\/pages\/faq\" target=\"_blank\" title=\"FAQ\">FAQ<\/a> für dich zusammengefasst.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1653666587561814b7-0"
+        ],
+        "settings": {
+          "border": true,
+          "feature-borders": false
+        }
+      },
+      "main": {
+        "type": "static-page-contact",
+        "settings": {
+          "show-breadcrumbs": false
+        }
+      },
+      "165409311208740eec": {
+        "type": "dynamic-richtext",
+        "blocks": {
+          "1654093112ad3a2436-0": {
+            "type": "plain_text",
+            "settings": {
+              "title": "Rich text",
+              "caption": "<p>Use this section to welcome customers to your store, say a bit about your brand, or share news and seasonal promotions.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1654093112ad3a2436-0"
+        ],
+        "settings": {
+          "border": false,
+          "feature-borders": false
+        }
+      }
+    },
+    "order": [
+      "1653666587757fb735",
+      "main",
+      "165409311208740eec"
+    ]
+  }

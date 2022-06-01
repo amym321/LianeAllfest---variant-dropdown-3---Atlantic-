@@ -1,1 +1,110 @@
-{"sections":{"dynamic-slideshow-1":{"type":"dynamic-slideshow","blocks":{"block-1":{"type":"feature","settings":{"image":"shopify:\/\/shop_images\/Liane_Allfest13355.png","slide_title":"Josephie \"Sweet Lilac\"","caption":"","button":"Jetzt entdecken","link":"shopify:\/\/products\/josephine-lilac","alignment":"right top","show_overlay":true,"background":"#dac497","opacity":1}}},"block_order":["block-1"],"settings":{"desktop_height":"natural","mobile_height":"small","full-width":true,"parallax":false,"autoplay_enable":false,"transition":"slide","autoplay_interval":5}},"dynamic-collection-1":{"type":"dynamic-collection","settings":{"collection":"josephine","title":"Latest drops","border":false,"rows":1,"products_per_row":4}},"1652034894e2d80184":{"type":"dynamic-slideshow","blocks":{"1652034893800b3a72-0":{"type":"feature","settings":{"image":"shopify:\/\/shop_images\/SUMMER_OCCASIONS.png","slide_title":"","caption":"","button":"","link":"shopify:\/\/collections\/cacilia","alignment":"center-center","show_overlay":false,"background":"#dac497","opacity":1}},"1652034893800b3a72-1":{"type":"feature","settings":{"slide_title":"Slideshow","caption":"Introduce customers to your shop with lifestyle imagery and product photography.","button":"Your call to action button","link":"","alignment":"center-center","show_overlay":false,"background":"#000000","opacity":20}}},"block_order":["1652034893800b3a72-0","1652034893800b3a72-1"],"settings":{"desktop_height":"natural","mobile_height":"natural","full-width":true,"parallax":false,"autoplay_enable":false,"transition":"slide","autoplay_interval":5}},"dynamic-image-with-text-1":{"type":"dynamic-image-with-text","settings":{"margin":"regular","image":"shopify:\/\/shop_images\/Liane_Allfest12982.jpg","alignment":"right","desktop_height":"natural","mobile_height":"large","parallax":true,"title":"Image with text","content":"<p>Say a bit about your brand, a specific product, or promotion.<\/p>"}},"16535930808b236c11":{"type":"dynamic-collection-list","blocks":{"16535930801dd90e1e-0":{"type":"feature","settings":{"collection":""}},"16535930801dd90e1e-1":{"type":"feature","settings":{"collection":""}},"16535930801dd90e1e-2":{"type":"feature","settings":{"collection":""}}},"block_order":["16535930801dd90e1e-0","16535930801dd90e1e-1","16535930801dd90e1e-2"],"settings":{"title":"Collection list","border":true}}},"order":["dynamic-slideshow-1","dynamic-collection-1","1652034894e2d80184","dynamic-image-with-text-1","16535930808b236c11"]}
+{
+    "sections": {
+      "dynamic-slideshow-1": {
+        "type": "dynamic-slideshow",
+        "blocks": {
+          "block-1": {
+            "type": "feature",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Liane_Allfest13355.png",
+              "slide_title": "EXCEPTIONAL PIECES                                                                         OF FEMININE TASTE",
+              "caption": "",
+              "button": "Discover here",
+              "link": "shopify:\/\/collections\/josephine",
+              "alignment": "right top",
+              "show_overlay": true,
+              "background": "#dac497",
+              "opacity": 1
+            }
+          }
+        },
+        "block_order": [
+          "block-1"
+        ],
+        "settings": {
+          "desktop_height": "natural",
+          "mobile_height": "small",
+          "full-width": true,
+          "parallax": false,
+          "autoplay_enable": false,
+          "transition": "slide",
+          "autoplay_interval": 5
+        }
+      },
+      "1652034894e2d80184": {
+        "type": "dynamic-slideshow",
+        "disabled": true,
+        "blocks": {
+          "1652034893800b3a72-0": {
+            "type": "feature",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/SUMMER_OCCASIONS.png",
+              "slide_title": "",
+              "caption": "",
+              "button": "",
+              "link": "shopify:\/\/collections\/cacilia",
+              "alignment": "center-center",
+              "show_overlay": false,
+              "background": "#dac497",
+              "opacity": 1
+            }
+          },
+          "1652034893800b3a72-1": {
+            "type": "feature",
+            "settings": {
+              "slide_title": "Slideshow",
+              "caption": "Introduce customers to your shop with lifestyle imagery and product photography.",
+              "button": "Your call to action button",
+              "link": "",
+              "alignment": "center-center",
+              "show_overlay": false,
+              "background": "#000000",
+              "opacity": 20
+            }
+          }
+        },
+        "block_order": [
+          "1652034893800b3a72-0",
+          "1652034893800b3a72-1"
+        ],
+        "settings": {
+          "desktop_height": "natural",
+          "mobile_height": "natural",
+          "full-width": true,
+          "parallax": false,
+          "autoplay_enable": false,
+          "transition": "slide",
+          "autoplay_interval": 5
+        }
+      },
+      "dynamic-collection-1": {
+        "type": "dynamic-collection",
+        "settings": {
+          "collection": "josephine",
+          "title": "",
+          "border": false,
+          "rows": 1,
+          "products_per_row": 4
+        }
+      },
+      "dynamic-image-with-text-1": {
+        "type": "dynamic-image-with-text",
+        "settings": {
+          "margin": "regular",
+          "image": "shopify:\/\/shop_images\/Liane_Allfest12982.jpg",
+          "alignment": "right",
+          "desktop_height": "natural",
+          "mobile_height": "large",
+          "parallax": true,
+          "title": "Image with text",
+          "content": "<p>Say a bit about your brand, a specific product, or promotion.<\/p>"
+        }
+      }
+    },
+    "order": [
+      "dynamic-slideshow-1",
+      "1652034894e2d80184",
+      "dynamic-collection-1",
+      "dynamic-image-with-text-1"
+    ]
+  }

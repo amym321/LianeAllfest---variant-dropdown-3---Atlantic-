@@ -1,1 +1,57 @@
-{"sections":{"main":{"type":"static-faq","blocks":{"block-1":{"type":"faq","settings":{"title":"Can I track my order?","content":"<p>Save yourself the time and trouble of writing the same email over and over again by listing your most commonly asked questions and answers here. A dedicated FAQ page should help address the basic needs of your customers, cutting down on customer service emails, increasing conversions, and creating a more satisfying shopping experience!<\/p>"}},"block-2":{"type":"faq","settings":{"title":"Where do you ship to?","content":"<p>Save yourself the time and trouble of writing the same email over and over again by listing your most commonly asked questions and answers here. A dedicated FAQ page should help address the basic needs of your customers, cutting down on customer service emails, increasing conversions, and creating a more satisfying shopping experience!<\/p>"}},"block-3":{"type":"faq","settings":{"title":"What are your shipping rates?","content":"<p>Save yourself the time and trouble of writing the same email over and over again by listing your most commonly asked questions and answers here. A dedicated FAQ page should help address the basic needs of your customers, cutting down on customer service emails, increasing conversions, and creating a more satisfying shopping experience!<\/p>"}}},"block_order":["block-1","block-2","block-3"],"settings":{}}},"order":["main"]}
+{
+    "sections": {
+      "main": {
+        "type": "static-faq",
+        "blocks": {
+          "block-1": {
+            "type": "faq",
+            "settings": {
+              "title": "PRODUKTE",
+              "content": "<p><strong>Gibt es mehrere Taschenketten zur Auswahl? Kann ich die Länge der Kette auswählen?<\/strong><\/p><p>Den letzten Feinschliff möchten wir dir überlassen. Daher kannst du bei jedem Taschenmodell mit Kette zwischen mindestens zwei unterschiedlichen Ketten wählen. Die Kettenvarianten sind in den Längen 96cm und 103cm erhältlich. Bei einer Körpergröße von bis zu 170cm empfehlen wir die kürzere und ab einer Körpergröße von 171cm die längere Kette auszuwählen.<\/p><p>Falls du deine Taschenkette wechseln möchtest oder deine Kette verloren hast, kannst du unsere hochwertigen <a href=\"\/collections\/taschenzubehor\" target=\"_blank\" title=\"Taschenzubehör\">Taschenketten<\/a> auch separat kaufen.<\/p><p><\/p><p><strong>Aus welchen Materialien werden Liane Allfest Handtaschen gefertigt?<\/strong><\/p><p>Welche Materialien für die Herstellung unserer Taschen verwendet werden erfährst du unter <a href=\"\/pages\/nachhaltigkeit-materialien\" target=\"_blank\" title=\"Nachhaltigkeit & Materialien\">Nachhaltigkeit & Materialien<\/a>.<\/p><p><\/p><p><strong>Wo werden Liane Allfest Handtaschen hergestellt?<\/strong><\/p><p>Um Einblicke in den Design- und Herstellungsprozess zu bekommen wirf einen Blick auf <a href=\"\/pages\/von-der-idee-zum-unikat\" target=\"_blank\" title=\"Von der Idee zum Unikat\">Von der Idee zum Unikat<\/a>.<\/p><p><\/p><p><strong>Meine Lieblingstasche ist nicht verfügbar. Was kann ich tun?<\/strong><\/p><p>Um Überproduktion zu vermeiden werden unsere Taschen in kleinen Auflagen hergestellt. Es kann also durchaus passieren, dass besonders beliebte Modelle vorübergehend nicht verfügbar sind. Gerne kannst du uns eine <a href=\"\/pages\/kontakt\" title=\"Kontakt\">Nachricht <\/a>mit deinem Namen und dem deiner Wunschtasche senden, sodass wir dich benachrichtigen können, sobald die Tasche wieder lagernd ist.<\/p>"
+            }
+          },
+          "1346faa4-650b-4d21-aeef-221e8a991bab": {
+            "type": "faq",
+            "settings": {
+              "title": "PFLEGE",
+              "content": "<p><strong>Wie kann ich meine Tasche pflegen?<\/strong><\/p><p>Wirf einen Blick auf die <a href=\"\/pages\/pflege\" target=\"_blank\" title=\"Pflege\">Pflegehinweise<\/a>, um alles über die optimale Pflege der Liane Allfest Taschen zu erfahren.<\/p>"
+            }
+          },
+          "c49fa34b-a3da-4f25-9998-292b0a343f42": {
+            "type": "faq",
+            "settings": {
+              "title": "BESTELLUNG",
+              "content": "<p><strong>Kann ich meine Bestellung stornieren oder ändern?<\/strong><\/p><p>Wenn du noch keine Versandbestätigung erhalten hast und deine Bestellung ändern möchtest, kannst du uns gerne eine <a href=\"\/pages\/kontakt\" target=\"_blank\" title=\"Kontakt\">Nachricht<\/a> senden. Sofern deine Bestellung noch nicht an den Versanddienstleister übergeben wurde, tun wir unser Bestes, um deine Änderung schnellstmöglich durchzuführen.<\/p><p><\/p><p><strong>Ich habe keine Bestell- oder Versandbestätigung erhalten.<\/strong><\/p><p>Bitte kontrolliere ob unsere E-Mails nicht in deinem Spamordner gelandet sind. Stelle bitte auch sicher, dass du die richtige E-Mail Adresse benutzt hast. Falls du glaubst, dass du die falsche E-Mail Adresse angegeben hast, sende uns bitte eine <a href=\"\/pages\/kontakt\" title=\"Kontakt\">Nachricht<\/a>.<br\/><br\/><strong>Wo finde ich meine Bestellnummer?<\/strong><\/p><p>Deine Bestellnummer findest du in der Bestellbestätigung, die du nach dem Kauf per E-Mail erhältst. <\/p><p><\/p><p><strong>Was kann ich tun, wenn ich ein mangelhaftes Produkt erhalten habe?<\/strong><\/p><p>Bitte schicke uns eine <a href=\"\/pages\/kontakt\" target=\"_blank\" title=\"Kontakt\">Nachricht<\/a> mit deiner Bestellnummer und einem Foto oder Video auf dem der Defekt gut zu erkennen ist. Wir werden unser Bestes tun um uns rasch um dein Anliegen zu kümmern.<\/p><p><\/p><p><strong>Was kann ich tun, wenn ich den falschen Artikel erhalten habe?<\/strong><\/p><p>Bitte schicke uns eine<a href=\"\/pages\/kontakt\" target=\"_blank\" title=\"Kontakt\"> Nachricht<\/a> mit einem Foto von dem Artikel, den du bekommen hast und dem Lieferschein, auf dem steht, was du stattdessen hättest bekommen sollen.<\/p>"
+            }
+          },
+          "ff68a454-72e2-4990-9790-7c19a1c3c42d": {
+            "type": "faq",
+            "settings": {
+              "title": "VERSAND & RÜCKSENDUNG",
+              "content": "<p>Alle Informationen zum Versand & Rückversand findest du in unseren <a href=\"\/pages\/agb\" target=\"_blank\" title=\"AGB\">AGB<\/a>.<\/p>"
+            }
+          },
+          "32ee90e9-22a4-4366-831d-906ba5401c1e": {
+            "type": "faq",
+            "settings": {
+              "title": "BEZAHLUNG",
+              "content": "<p><strong>Mit welchen Zahlungsmethoden kann ich bezahlen?<\/strong><\/p><p>Wir bieten folgende Zahlungsmethoden an:<br\/><br\/>Mastercard<br\/>Visa<br\/>Amex<br\/>Maestro<br\/>Paypal<br\/>Apple Pay<br\/>Google Pay<br\/>Klarna Sofort bezahlen<br\/><br\/><br\/><\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "block-1",
+          "1346faa4-650b-4d21-aeef-221e8a991bab",
+          "c49fa34b-a3da-4f25-9998-292b0a343f42",
+          "ff68a454-72e2-4990-9790-7c19a1c3c42d",
+          "32ee90e9-22a4-4366-831d-906ba5401c1e"
+        ],
+        "settings": {
+          "show-breadcrumbs": false
+        }
+      }
+    },
+    "order": [
+      "main"
+    ]
+  }
